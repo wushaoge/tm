@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/wushaoge/tm/main/tvbox/stable/custom_spider_stable.jar",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/wushaoge/tm/main/tm/stable/custom_spider_stable.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "warningText": "码上放生公众号免费整理维护：资源来自网络，无盈利，纯技术分享，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "lives":
@@ -7,7 +7,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/wushaoge/tm/main/tvbox/stable/live_stable.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/wushaoge/tm/main/tm/stable/live_stable.txt",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -20,41 +20,41 @@
       "key": "时光机在线豆瓣[JS]",
       "name": "[github]🌞稳定版时光机💢v20231009-420",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/wushaoge/tm/main/tvbox/stable/merge.min.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/wushaoge/tm/main/tm/stable/merge.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wushaoge/tm/main/tvbox/stable/豆瓣.js"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wushaoge/tm/main/tm/stable/豆瓣.js"
     },
     {
       "key": "dr_码上看_哔哩影视",
       "name": "🔥码上看动漫",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/wushaoge/tm/main/tvbox/stable/merge.min.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/wushaoge/tm/main/tm/stable/merge.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wushaoge/tm/main/tvbox/stable/哔哩影视.js"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wushaoge/tm/main/tm/stable/哔哩影视.js"
     },
     {
       "key": "dr_码上看_低端",
       "name": "🔥码上看低端",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/wushaoge/tm/main/tvbox/stable/merge.min.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/wushaoge/tm/main/tm/stable/merge.min.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wushaoge/tm/main/tvbox/stable/低端影视.js"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wushaoge/tm/main/tm/stable/低端影视.js"
     },
     {
       "key": "dr_码上看_荐片",
       "name": "🔥码上看荐片",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/wushaoge/tm/main/tvbox/stable/merge.min.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/wushaoge/tm/main/tm/stable/merge.min.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wushaoge/tm/main/tvbox/stable/荐片.js"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wushaoge/tm/main/tm/stable/荐片.js"
     },
     {
       "key": "csp_WoGG",
